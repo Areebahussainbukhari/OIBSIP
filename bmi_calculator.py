@@ -2,7 +2,7 @@
 BMI Calculator
 Oasis Infobyte AICTE SIP - Python Programming Track - Task 2
 
-Calculates a user's Body Mass Index (BMI) from weight and height,
+Calculates a user's Body Mass Index (BMI) from weight and height
 and classifies the result into a standard health category.
 """
 
