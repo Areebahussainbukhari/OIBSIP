@@ -11,7 +11,7 @@ import requests
 
 # Paste your free OpenWeatherMap API key between the quotes below.
 # Get one at: https://openweathermap.org/ (My API Keys, after signing up)
-API_KEY = "24f55d696574404108ebc185193b3c6b"
+API_KEY = "API_KEY_HERE"
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
